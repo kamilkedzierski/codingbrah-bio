@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://bio.codinbgrah.com"><img alt="Codingbrah logo" width="680px" src="static/images/logo.png"/></a>
+  <a href="https://bio.codinbgrah.com"><img alt="Codingbrah logo" width="350px" src="static/images/logo.png"/></a>
 </div>
 
 ## Simple bio page - linktree free alternative
