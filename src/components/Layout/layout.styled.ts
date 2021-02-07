@@ -610,6 +610,5 @@ pre tt:after {
 export const StyledLayout = styled.div`
   margin: 0 auto;
   max-width: 960px;
-  min-height: 100vh;
   padding: 0 1.0875rem 1.45rem;
 `
