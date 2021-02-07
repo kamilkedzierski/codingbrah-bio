@@ -16,5 +16,6 @@ export const StyledImage = styled.img`
 `
 
 export const StyledLink = styled.a`
-  display: flex;
+  display: inline;
+  line-height: 0;
 `
