@@ -4,6 +4,7 @@ import {
   faInstagram,
   faGooglePlay,
   faGithub,
+  faLinkedin,
 } from "@fortawesome/free-brands-svg-icons"
 
 export const socialLinks = [
@@ -31,9 +32,15 @@ export const socialLinks = [
   },
   {
     name: "Codingbrah creator - Kamil",
-    url: "https://www.instagram.com/kamil.kedzierski/",
-    icon: null,
+    url: "https://www.linkedin.com/in/kamilkedzierski94/",
+    icon: faLinkedin,
   },
+  {
+    name: "Codingbrah creator - Mateusz",
+    url: "https://www.linkedin.com/in/mskw/",
+    icon: faLinkedin,
+  },
+
   {
     name: "React Native game that we've created for fun (Android only)",
     url: "https://play.google.com/store/apps/details?id=com.reactlify",
