@@ -6,8 +6,14 @@ import {
   faGithub,
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons"
+import { faCoffee } from "@fortawesome/free-solid-svg-icons"
 
 export const socialLinks = [
+  {
+    name: "Buy me a coffee",
+    url: "https://www.buymeacoffee.com/codingbrah",
+    icon: faCoffee,
+  },
   {
     name: "Instagram",
     url: "https://instagram.com/codingbrah",
