@@ -33,7 +33,7 @@ export const socialLinks = [
   },
   {
     name: "Cool Codingbrah blog 😎",
-    url: "https://codingbrah.hashnode.dev",
+    url: "https://blog.codingbrah.com",
     icon: null,
   },
   {
