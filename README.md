@@ -4,7 +4,7 @@
 
 ## Simple bio page - linktree free alternative
 
-It's just a simple bio page, which we can customize freely.
+It's just a simple bio page, which is 100% customizable.
 
 ### Tech Stack:
 
