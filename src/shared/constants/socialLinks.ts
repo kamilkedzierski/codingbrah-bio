@@ -5,12 +5,13 @@ import {
   faGooglePlay,
   faGithub,
   faLinkedin,
+  faYoutube,
 } from "@fortawesome/free-brands-svg-icons"
 import { faCoffee } from "@fortawesome/free-solid-svg-icons"
 
 export const socialLinks = [
   {
-    name: "Buy me a coffee",
+    name: "Buy us a coffee",
     url: "https://www.buymeacoffee.com/codingbrah",
     icon: faCoffee,
   },
@@ -25,6 +26,11 @@ export const socialLinks = [
     url: "https://www.twitch.tv/codingbrah/",
     icon: faTwitch,
   },
+  {
+    name: "YouTube",
+    url: "https://www.youtube.com/channel/UClT4aGR_Y1Px4YmIu_YlbKQ",
+    icon: faYoutube,
+  },
   { name: "Github", url: "https://github.com/codingbrah/", icon: faGithub },
   {
     name: "Request a crazy topic 🧐",
@@ -33,7 +39,7 @@ export const socialLinks = [
   },
   {
     name: "Cool Codingbrah blog 😎",
-    url: "https://blog.codingbrah.com",
+    url: "https://codingbrah.hashnode.dev",
     icon: null,
   },
   {
@@ -42,11 +48,15 @@ export const socialLinks = [
     icon: faLinkedin,
   },
   {
+    name: "Codingbrah creator - Kacper",
+    url: "https://www.linkedin.com/in/kacperszarkiewicz/",
+    icon: faLinkedin,
+  },
+  {
     name: "Codingbrah creator - Mateusz",
     url: "https://www.linkedin.com/in/mskw/",
     icon: faLinkedin,
   },
-
   {
     name: "React Native game that we've created for fun (Android only)",
     url: "https://play.google.com/store/apps/details?id=com.reactlify",
