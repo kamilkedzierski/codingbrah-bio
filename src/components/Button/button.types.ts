@@ -4,4 +4,5 @@ export interface ButtonProps {
   children: React.ReactNode
   url: string
   icon: IconDefinition | null
+  special?: boolean
 }

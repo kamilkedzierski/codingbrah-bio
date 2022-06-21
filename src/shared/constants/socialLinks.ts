@@ -7,13 +7,19 @@ import {
   faLinkedin,
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons"
-import { faCoffee } from "@fortawesome/free-solid-svg-icons"
+import { faCoffee, faWindowMaximize } from "@fortawesome/free-solid-svg-icons"
 
 export const socialLinks = [
   {
-    name: "Buy us a coffee",
-    url: "https://www.buymeacoffee.com/codingbrah",
-    icon: faCoffee,
+    name: "Latest post - What is Blockchain? 🔥",
+    url: "https://codingbrah.com/blog/what-is-blockchain",
+    icon: null,
+    special: true,
+  },
+  {
+    name: "Codingbrah website 🤙",
+    url: "https://codingbrah.com",
+    icon: null,
   },
   {
     name: "Instagram",
@@ -61,5 +67,10 @@ export const socialLinks = [
     name: "React Native game that we've created for fun (Android only)",
     url: "https://play.google.com/store/apps/details?id=com.reactlify",
     icon: faGooglePlay,
+  },
+  {
+    name: "Buy us a coffee",
+    url: "https://www.buymeacoffee.com/codingbrah",
+    icon: faCoffee,
   },
 ]

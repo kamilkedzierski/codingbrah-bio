@@ -9,7 +9,7 @@ const HomeView = () => {
   const renderSocialLinks = socialLinks.map((item, index) => {
     return (
       <div key={index}>
-        <Button url={item.url} icon={item.icon}>
+        <Button url={item.url} icon={item.icon} special={item.special}>
           {item.name}
         </Button>
         <Spacer axis="vertical" size={18} />
