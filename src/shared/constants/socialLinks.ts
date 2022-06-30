@@ -11,8 +11,8 @@ import { faCoffee, faWindowMaximize } from "@fortawesome/free-solid-svg-icons"
 
 export const socialLinks = [
   {
-    name: "Latest post - What is Blockchain? 🔥",
-    url: "https://codingbrah.com/blog/what-is-blockchain",
+    name: "Latest post 🔥",
+    url: "https://www.codingbrah.com/blog/what-is-ethereum",
     icon: null,
     special: true,
   },
