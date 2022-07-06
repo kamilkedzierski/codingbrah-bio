@@ -12,7 +12,8 @@ import { faCoffee, faWindowMaximize } from "@fortawesome/free-solid-svg-icons"
 export const socialLinks = [
   {
     name: "Latest post 🔥",
-    url: "https://www.codingbrah.com/blog/what-is-ethereum",
+    url:
+      "https://www.codingbrah.com/blog/5-tips-to-optimize-react-native-performance",
     icon: null,
     special: true,
   },
