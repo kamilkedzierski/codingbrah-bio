@@ -13,7 +13,7 @@ export const socialLinks = [
   {
     name: "Latest post 🔥",
     url:
-      "https://www.codingbrah.com/blog/5-tips-to-optimize-react-native-performance",
+      "https://www.codingbrah.com/blog/first-smart-contract-ethereum-blockchain",
     icon: null,
     special: true,
   },
